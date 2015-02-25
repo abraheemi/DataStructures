@@ -7,8 +7,16 @@
 *
 * Program #6; Binary Trie
 *
+* Definition of a Trie: 
+*
 * This program implements a Trie to store and search
 * for words based on their suffixes.
+*
+* This is an improved version of the program trieArray.cpp
+* because it uses a linked list which avoids leaving 
+* unused memory at the bottom of the trie. It does so by
+* building a left-child right sibling linked list data
+* structure.
 * 
 ************************************/
 #include <stdio.h>
