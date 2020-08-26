@@ -1,2 +1,2 @@
 # DataStructures
-Data Structures in (C/C++)
+Data Structures
